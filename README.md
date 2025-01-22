@@ -1,3 +1,9 @@
+This project demonstrates my skills in front-end development, React state management, and responsive web design. Check it out and start guessing!
+
+
+ Players can guess the hidden word within six attempts, with feedback provided for each guess.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
